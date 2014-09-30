@@ -1,3 +1,4 @@
+// this is a program  when we use files. 
 #include <stdio.h>
 #include <stdio.h>
 
